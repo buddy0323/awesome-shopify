@@ -273,6 +273,7 @@ A Open Source Projects
 
 ### Utilities
 
+- [Shopify App Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=buddy-awesome-shopify&utm_medium=resource-directory&utm_campaign=inbound-validation) - Turn pasted public Shopify App Store review rows into a transparent, privacy-first triage and Markdown action brief; runs entirely in the browser with no uploads or account. (Maintainer-submitted)
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) - A Sketch App plugin to populate your designs with meaningful ecommerce data.
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
