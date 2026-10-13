@@ -276,6 +276,7 @@ A Open Source Projects
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) - A Sketch App plugin to populate your designs with meaningful ecommerce data.
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
+- [Momiji Shopify compliance tools](https://apify.momiji-space.com/) - Free checkers and guides for Shopify merchants (staff access review, Prop 65, CLP labels).
 
 ### Raycast Extension
 - [Search Shopify Liquid Documentation](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) - Raycast extension to preview and access Shopify documentation.
