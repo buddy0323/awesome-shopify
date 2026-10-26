@@ -91,6 +91,7 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes. ⚠️
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme. ⚠️
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js. ⚠️
+- [Level Shopify & DTC Financial Benchmarks](https://levelcfo.com/benchmarks/ecommerce/) - Open benchmarks on Shopify store cash conversion cycles, category return rates, and Shopify-to-GL reconciliation ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 ## Mobile
 
